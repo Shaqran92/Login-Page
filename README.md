@@ -1,11 +1,20 @@
 # Login-Page
 
-Created a sleek login/signup page interface. This project highlights form UX and animated label interactions to enhance user input experience.
+# 🔐 Login Page with JS Validation
 
-Key Features:
+An elegant login page designed with HTML and CSS. The form checks for valid email format and password strength.
 
-Form validation for email/password
+## 🚀 Live Demo
+👉 [View Live](https://yourusername.github.io/login-form-validation)
 
-Responsive layout with clean UI
+## 💡 Features
+- Real-time client-side validation
+- Responsive form layout
+- Stylish and modern UI
 
-Interactive input fields and transitions
+## 🔧 Technologies Used
+- HTML5
+- CSS3
+
+## 📸 Screenshots
+![Login](./assets/login-form.png)
