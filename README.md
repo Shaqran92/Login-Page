@@ -1,6 +1,6 @@
 # Login-Page
 
-# 🔐 Login Page with JS Validation
+# 🔐 Login Page
 
 An elegant login page designed with HTML and CSS. The form checks for valid email format and password strength.
 
