@@ -5,7 +5,7 @@
 An elegant login page designed with HTML and CSS. The form checks for valid email format and password strength.
 
 ## 🚀 Live Demo
-👉 [View Live](https://yourusername.github.io/login-form-validation)
+👉 [View Live](https://shaqran92.github.io/Login-Page/)
 
 ## 💡 Features
 - Real-time client-side validation
